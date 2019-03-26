@@ -3,7 +3,7 @@ import '../css/App.css';
 import Header from './Header';
 import Formulario from './Formulario';
 import Listado from './Listado';
-import {validarPresupuesto,revisarPresupuesto} from '../helper';
+import {validarPresupuesto} from '../helper';
 import ControlPresupuesto from './ControlPresupuesto';
 
 class App extends Component {
